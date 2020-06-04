@@ -1,19 +1,12 @@
 *{
     margin: 0;
 }
-body{
-    width: 100%;
-    margin: 0px;
-    padding: 0px;
-    display: block;
-    position: fixed;
-    font-family: 'Roboto' !important;
-}
 ul{
     margin: 0;
     padding: 0;
     list-style: none;
     display: flex;
+    background: #062a5e;
 }
 ul li{
     width: 100%;
@@ -21,13 +14,14 @@ ul li{
     position: relative;
 }
 ul li a{
-    color: #777777;
+    color: #fff;
     text-decoration: none;
+    text-transform: uppercase;
     padding: 10px;
     display: block;
 }
 ul li a:hover{
-    color: #2400f6;
+    color: dodgerblue;
 }
 .dropdown{
     position: absolute;
@@ -36,55 +30,17 @@ ul li a:hover{
     visibility: hidden;
     transition: 0.3s;
     left: 0;
+    top: -600%;
     z-index: -1;
-    background-color: #2400f6;
 }
-
-.dropdown li a{
-    color: #ffffff !important;
-}
-.dropdown li a:hover{
-    color: #2400f6 !important;
-    background-color: #ffffff !important;
-}
-.dropdown2 li a:hover{
-    color: #2400f6 !important;
-    background-color: #ffffff !important;
-}
-
 ul li:hover .dropdown{
     visibility: visible;
     top: 100%;
-    background-color: #2400f6;
-}
-
-.dropdown2{
-    position: absolute;
-    left: 0%;
-    width: 100%;
-    top: 0px;
-    flex-wrap: wrap;
-    transition: 0.3s;
-    visibility: hidden;
-}
-
-.dropdown li:hover .dropdown2{
-    left: 101%;
-    visibility: visible;
-    background-color: #2400f6;
-    color: #ffffff !important;
 }
 .menu-header{
     display: none;
-    color: #2400f6 !important;
 }
-i{
-    width: 100%;
-    display: block;
-    font-size: 20px;
-    padding-bottom: 5px;
-}
-@media(max-width: 700px){
+@media(max-width: 767px){
     ul{
         display: table;
         width: 100%;
@@ -92,7 +48,7 @@ i{
     ul li{
         text-align: left;
     }
-    .dropdown , .dropdown2{
+    .dropdown{
         position: relative;
         left: 0;
         top: 0;
@@ -104,28 +60,19 @@ i{
     .display{
         display: block;
     }
-    .dropdown li:hover .dropdown2{
-        left: 0px ;
-    }
     .menu-content{
-        display: none !important;
+        display: none;
     }
     .menu-header{
-        display: inline-block;
-        background: transparent;
-        padding: 10px 20px;
-        float: right;
-        font-size: 35px;
+        display: block;
+        background: #272727;
+        text-align: right;
+        padding: 10px;
     }
-    .apresenta-menu{
-        display: block !important;
-        transition: 0.4s;
-    }
-    i{
-        display: flex;
-        padding-right: 10px;
-        vertical-align: bottom;
-        width: 25px !important;
-        float: left;
+    .fa-bars{
+        color: #fff;
+        border: 1px solid #fff;
+        padding: 5px 10px;
+        border-radius: 4px;
     }
 }
