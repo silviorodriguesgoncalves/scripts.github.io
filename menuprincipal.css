@@ -1,3 +1,6 @@
+#menu-rdc li:hover:before {
+    background-color: black;
+}
 #menu-rdc {
         margin: 0px;
         padding: 0px;
