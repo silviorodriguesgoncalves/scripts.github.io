@@ -22,6 +22,7 @@
         padding: 10px;
         display: block;
         text-transform: uppercase;
+        font-size: 12px;
     }
     #menu-rdc li:hover {
         background-color: #2400f6;
