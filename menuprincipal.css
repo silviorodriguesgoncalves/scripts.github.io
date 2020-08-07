@@ -1,3 +1,6 @@
+header.main.menu_02 {
+    height: max-content;
+}
 #menu-rdc li:hover:before {
     background-color: black;
 }
