@@ -19,11 +19,6 @@ header.main.menu_02 {
     height: max-content !important;
 }
 
-#menu-rdc li:active {
-    background-color: #2400f6;
-    color: #ffffff;
-}
-
 #menu-rdc {
     margin: 0px;
     padding: 0px;
