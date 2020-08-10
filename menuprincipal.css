@@ -47,6 +47,8 @@ header.main.menu_02 {
     font-size: 12px;
     padding: 10px 5px;
     margin: 0px auto;
+    line-height: initial;
+    height: auto;
 }
 #menu-rdc li:hover {
     background-color: #2400f6;
