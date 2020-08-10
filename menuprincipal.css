@@ -2,6 +2,7 @@
     #menu-rdc {
         display: table !important;
         width: 350px !important;
+        height: max-content !important;
         position: fixed !important;
         background-color: #fff !important;
     }
