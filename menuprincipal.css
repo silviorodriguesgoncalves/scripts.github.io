@@ -38,6 +38,7 @@ header.main.menu_02 {
     text-align: center;
     position: relative;
     list-style: none;
+    display: flex;
 }
 
 #menu-rdc li a {
