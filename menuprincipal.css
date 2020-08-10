@@ -7,8 +7,8 @@
         background-color: #fff !important;
     }
     #menu-rdc li {
-        text-align: left;
-        width: 80%;
+        text-align: left !important;
+        width: 80% !important;
     }
 }
 .icones-menu {
