@@ -19,7 +19,7 @@ header.main.menu_02 {
     height: max-content !important;
 }
 
-#menu-rdc li:hover:before {
+#menu-rdc li:hover::after {
     background-color: #2400f6 !important;
     color: #ffffff !important;
 }
