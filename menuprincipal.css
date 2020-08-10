@@ -1,17 +1,13 @@
 @media(max-width: 768px) {
     #menu-rdc {
-        margin: 0px;
-        padding: 0px;
-        list-style: none;
-        display: flex;
-        background-color: transparent;
-        width: 100%;
+        display: table !important;
+        width: 350px !important;
+        position: fixed !important;
+        background-color: #fff !important;
     }
-    #menu-rdc ul {
-        position: absolute;
-        width: 100%;
-        flex-wrap: wrap;
-        visibility: hidden;
+    #menu-rdc li {
+        text-align: left;
+        width: 80%;
     }
 }
 .icones-menu {
