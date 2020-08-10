@@ -18,11 +18,12 @@
 header.main.menu_02 {
     height: max-content !important;
 }
-/*
+
 #menu-rdc li:hover:before {
-    background-color: black;
+    background-color: #2400f6 !important;
+    color: #ffffff !important;
 }
-*/
+
 #menu-rdc {
     margin: 0px;
     padding: 0px;
