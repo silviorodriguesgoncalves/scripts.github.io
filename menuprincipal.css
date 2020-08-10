@@ -48,6 +48,7 @@ header.main.menu_02 {
     margin: 0px auto;
     line-height: initial;
     height: auto;
+    cursor: pointer;
 }
 #menu-rdc li:hover {
     background-color: #2400f6;
