@@ -11,6 +11,8 @@
     #menu-rdc li {
         text-align: left !important;
         width: 100% !important;
+        display: inline-block !important;
+        position: relative !important;
     }
     .sub-menu {
             position: relative !important;
