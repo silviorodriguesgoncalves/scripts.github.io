@@ -18,7 +18,7 @@
             top: 0px !important;
             transition: none !important;
             visibility: visible !important;
-            display: none !important;
+            /* display: none !important; */
             z-index: 1 !important;
             padding-left: 0px !important;
         }
