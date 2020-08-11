@@ -16,15 +16,18 @@
         border-left: 1px solid #2400f6;
     }
     .sub-menu {
-            position: relative !important;
-            left: 0px !important;
-            top: 0px !important;
-            transition: none !important;
-            visibility: visible !important;
-            /* display: none !important; */
-            z-index: 1 !important;
-            padding-left: 15px !important;
-        }
+        position: relative !important;
+        left: 0px !important;
+        top: 0px !important;
+        transition: none !important;
+        visibility: visible !important;
+        /* display: none !important; */
+        z-index: 1 !important;
+        padding-left: 15px !important;
+    }
+    #menu-rdc li>ul ul {
+        width: 100% !important;
+    }
 }
 .icones-menu {
     padding-top: 10px;
