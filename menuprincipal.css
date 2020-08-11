@@ -13,14 +13,14 @@
         width: 100% !important;
     }
     .sub-menu {
-            position: relative;
-            left: 0px;
-            top: 0px;
-            transition: none;
-            visibility: visible;
-            display: none;
-            z-index: 1;
-            padding-left: 0px;
+            position: relative !important;
+            left: 0px !important;
+            top: 0px !important;
+            transition: none !important;
+            visibility: visible !important;
+            display: none !important;
+            z-index: 1 !important;
+            padding-left: 0px !important;
         }
 }
 .icones-menu {
