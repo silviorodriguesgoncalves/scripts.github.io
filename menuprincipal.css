@@ -24,6 +24,7 @@
         /* display: none !important; */
         z-index: 1 !important;
         padding-left: 15px !important;
+        background: transparent !important;
     }
     #menu-rdc li>ul ul {
         width: 100% !important;
