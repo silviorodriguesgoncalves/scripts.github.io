@@ -90,6 +90,7 @@ header.main.menu_02 {
 #menu-rdc li:hover>ul {
     visibility: visible;
     top: 100%;
+    background-color: #2400f6;
 }
 /*
 .sub-menu{
