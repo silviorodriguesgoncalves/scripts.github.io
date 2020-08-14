@@ -1,6 +1,3 @@
-body{
-    background-color: #000;
-}
 @media(max-width: 768px) {
     #menu-rdc {
         display: table !important;
