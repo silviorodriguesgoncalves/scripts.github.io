@@ -71,6 +71,7 @@ header.main.menu_02 {
 #menu-rdc li:hover {
     background-color: #2400f6;
     color: #ffffff;
+    z-index: 3;
 }
 #menu-rdc li:hover > a {
     color: #ffffff;
