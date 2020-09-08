@@ -41,3 +41,6 @@ ul#menu-menu-topo {
     cursor: pointer;
     font-weight: 500;
 }
+header.main ul.aside {
+    padding: 0px !important;
+}
