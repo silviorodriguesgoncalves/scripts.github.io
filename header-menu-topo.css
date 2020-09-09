@@ -1,3 +1,8 @@
+.logo a {
+    vertical-align: middle !important;
+    height: 67px !important;
+    display: table-cell !important;
+}
 header.main .logo {
     float: left;
     margin: 0px;
