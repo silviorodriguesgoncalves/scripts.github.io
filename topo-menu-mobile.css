@@ -1,4 +1,8 @@
 @media screen and (max-width: 700px){
+#fidelityLogin {
+    margin-top: 0px !important;
+    margin-right: 15px !important;
+}
 #mobile-header i {
   color: #FFF;
   font-size: 30px;
@@ -15,7 +19,7 @@
   vertical-align: middle !important;
   height: 70px !important;
   display: table-cell !important;
-  width: 33.33%;
+  width: 138px;
   padding-left: 10px;
 
 }
@@ -61,6 +65,7 @@ button.showLoginForm.customBotaoAreaRestrita.btn.enter.send {
   border-radius: 22px;
   font-size: 34px;
   background-color: #fff;
+  margin: 0px;
 }
 
 #mobile-header i {
