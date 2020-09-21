@@ -118,6 +118,7 @@ button.showLoginForm.customBotaoAreaRestrita.btn.enter.send {
   font-size: 1.1rem !important;
   font-weight: 600 !important;
   margin-left: 10px !important;
+  margin: 0px;
 }
 
 .label-sub1 {
