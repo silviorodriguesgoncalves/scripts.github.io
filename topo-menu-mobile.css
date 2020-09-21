@@ -1,0 +1,216 @@
+#mobile-header i {
+  color: #FFF;
+  font-size: 30px;
+}
+
+/* I. Topo */
+#mobile-header {
+  background-color: #2400f6 !important;
+  width: 100%;
+  height: 70px;
+}
+
+.menu-topo1 {
+  vertical-align: middle !important;
+  height: 70px !important;
+  display: table-cell !important;
+  width: 33.33%;
+  padding-left: 10px;
+
+}
+
+.menu-topo1 img.mobile {
+  vertical-align: middle !important;
+  height: 30px !important;
+  display: table-cell !important;
+}
+
+.menu-topo2 {
+  vertical-align: middle !important;
+  height: 70px !important;
+  display: table-cell !important;
+  width: 33.33%;
+  text-align: right;
+}
+
+button.showLoginForm.customBotaoAreaRestrita.btn.enter.send {
+  background-color: #FFF !important;
+  padding: 6px 25px;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  color: #2400f6;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.menu-topo3 {
+  vertical-align: middle !important;
+  height: 70px !important;
+  display: table-cell !important;
+  width: 33.33%;
+  text-align: center;
+}
+
+.menu-hamburguer-mobile {
+  display: none;
+}
+
+.label-hamburger {
+  border: 1px solid #FFF;
+  border-radius: 22px;
+  font-size: 34px;
+  background-color: #fff;
+}
+
+#mobile-header i {
+  color: #2400f6;
+  font-size: 40px;
+  font-style: normal;
+  vertical-align: text-top;
+}
+
+/* F. Topo */
+.provisorio {
+  width: 110px !important;
+  margin: 15px 0px 5px 15px !important;
+}
+
+/* Menu principal */
+#menu-principal-mobile {
+  background-color: #2400f6 !important;
+  width: 70% !important;
+  min-height: 100% !important;
+}
+
+#menu-principal-mobile li {
+  list-style: none !important;
+  padding-top: 10px;
+  text-align: left;
+}
+
+#menu-principal-mobile li a {
+  width: 100% !important;
+  color: #ffffff !important;
+  text-decoration: none !important;
+  font-family: 'Roboto' !important;
+  font-size: 1.1rem !important;
+  font-weight: 600 !important;
+  margin-left: 10px !important;
+}
+#menu-principal-mobile ul li{
+  border-left: 1px solid #ffffff !important;
+}
+#menu-principal-mobile .checkbox-menu {
+  display: none !important;
+}
+
+#menu-principal-mobile li label {
+  width: 100% !important;
+  color: #ffffff !important;
+  text-decoration: none !important;
+  font-family: 'Roboto' !important;
+  font-size: 1.1rem !important;
+  font-weight: 600 !important;
+  margin-left: 10px !important;
+}
+
+.label-sub1 {
+  margin-left: 25px !important;
+}
+
+.label-sub2 {
+  margin-left: 40px !important;
+}
+
+ul ul {
+  display: none !important;
+  padding-left: 20px;
+}
+
+#pacotes:checked~ul {
+  display: block !important;
+  background: #2400f6 !important;
+}
+
+#pac-norte:checked~ul {
+  display: block !important;
+  background: #2400f6 !important;
+}
+
+#pac-nordeste:checked~ul {
+  display: block !important;
+  background: #2400f6 !important;
+}
+
+#pac-centro-oeste:checked~ul {
+  display: block !important;
+  background: #2400f6 !important;
+}
+
+#pac-sudeste:checked~ul {
+  display: block !important;
+  background: #2400f6 !important;
+}
+
+#pac-sul:checked~ul {
+  display: block !important;
+  background: #2400f6 !important;
+}
+
+#menu-principal-mobile span {
+  width: 100% !important;
+  color: #ffffff !important;
+  text-decoration: none !important;
+  font-family: 'Roboto' !important;
+  font-size: 1.1rem !important;
+  font-weight: 600 !important;
+  margin-left: 10px !important;
+  padding: 30px 0px 0px 0px !important;
+  display: block !important;
+}
+
+/* Redes Sociais */
+#menu-principal-mobile table {
+  width: 100% !important;
+  height: max-content !important;
+}
+
+#menu-principal-mobile table tr {
+  width: 100% !important;
+  height: max-content !important;
+}
+
+#menu-principal-mobile table tr td {
+  width: 25% !important;
+  height: max-content !important;
+  text-align: center !important;
+}
+
+.img-redes-sociais {
+  width: 50px !important;
+}
+
+
+#nav-menu-mobile {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.28);
+  transition: all 300ms ease;
+  -webkit-transition: all 300ms ease;
+  -moz-transition: all 300ms ease;
+  -o-transition: all 300ms ease;
+  left: -300%;
+}
+
+#menu-hamburguer:checked~#nav-menu-mobile {
+  left: 0;
+}
+.close{
+  display: inline-block;
+  font-size: 0;
+  height: 100%;
+  width: 100%;
+  cursor: pointer;
+  position: absolute;
+}
