@@ -75,5 +75,6 @@
         margin-top: 66px !important;
         background-color: #fff;
         padding: 10px !important;
+        box-shadow: 0 4px 5px 0 rgba(63,63,63,.6) !important;
     }
 }
