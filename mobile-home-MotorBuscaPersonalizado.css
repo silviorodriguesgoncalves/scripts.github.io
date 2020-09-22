@@ -56,17 +56,17 @@
         color: #666 !important;
     }
     #searchEngine.motor_tab_top.show_tabs .tabs li.active a {
-        background: #2a72a6 !important;
+        background: #2400f6 !important;
         color: #fff !important;
     }
     #searchEngine span:active {
-        background: #2a72a6 !important;
+        background: #2400f6 !important;
         color: #fff !important;
         border: 1px solid #fff !important;
     }
     #searchEngine span.ico::before:active {
         content: '' !important;
-        background: #2a72a6 !important;
+        background: #2400f6 !important;
         color: #fff !important;
         border: 1px solid #fff !important;
     }
