@@ -31,13 +31,14 @@
         background-color: #fff !important;
         color: #666 !important;
         width: 100% !important;
-        height: 50px !important;
+        height: min-content !important;
         text-align: center !important;
         line-height: 200% !important;
         font-size: 11px !important;
         text-transform: none !important;
         font-weight: normal !important;
         margin: 0px auto !important;
+        padding: 10px 5px 5px 5px !important;
     }
     #searchEngine span.ico {
         padding-bottom: 5px !important;
