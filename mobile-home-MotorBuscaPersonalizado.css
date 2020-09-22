@@ -49,6 +49,8 @@
         padding: 0px !important;
         vertical-align: middle !important;
         margin: 0px !important;
+        left: 11px;
+        position: relative;
     }
     #searchEngine .ico:before {
         color: #666 !important;
