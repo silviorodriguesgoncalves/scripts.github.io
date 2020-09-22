@@ -17,7 +17,7 @@
         width: 100% !important;
         height: 70px !important;
         display: block !important;
-        position: relative !important;
+        position: absolute !important;
         left: 0px !important;
         margin: 10px 0px !important;
         border: none !important;
@@ -27,7 +27,7 @@
         width: 100% !important;
         height: 70px !important;
         display: block !important;
-        position: relative !important;
+        position: absolute !important;
         left: 0px !important;
         margin: 10px 0px !important;
     }
