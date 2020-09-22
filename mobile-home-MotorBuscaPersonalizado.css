@@ -13,6 +13,14 @@
         height: max-content !important;
         display: block;
     }
+    #searchEngine.motor_tab_top.show_tabs .tabs{
+        width: 100% !important;
+        height: 70px !important;
+        display: block !important;
+        position: relative !important;
+        left: 0px !important;
+        margin: 10px 0px !important;
+    }
     #searchEngine ul {
         width: 100% !important;
         height: 70px !important;
