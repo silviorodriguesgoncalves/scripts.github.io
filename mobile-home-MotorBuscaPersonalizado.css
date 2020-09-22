@@ -64,6 +64,13 @@
         color: #fff !important;
         border: 1px solid #fff !important;
     }
+    #searchEngine span.ico::before:active {
+        content: '' !important;
+        background: #2a72a6 !important;
+        color: #fff !important;
+        border: 1px solid #fff !important;
+    }
+
     #searchEngine.motor_tab_top.show_tabs > .content {
         margin-top: 66px !important;
         background-color: #fff;
