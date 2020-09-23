@@ -94,7 +94,7 @@
     .radio.way {
         color: #666 !important;
         text-align: center;
-        display: inline-flex;
+        display: flex;
         width: 100%;
     }
     .search_engine_v2 >.content .radio.way label * {
@@ -102,6 +102,9 @@
         color: #666666;
     }
     /* Inicio dos Campos Aéreos */
-    
+    .search_engine_v2 >.content .radio.way label {
+        /* padding-right: 20px; */
+        width: 100% !important;
+    }
     /* Termino dos Campos Aéreos */
 }
