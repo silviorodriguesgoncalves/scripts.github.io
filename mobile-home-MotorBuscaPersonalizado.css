@@ -72,17 +72,9 @@
         font-size: 14px !important;
     }
     
-    span.ico:active {
-        /* background: #2400f6 !important; */
-        color: #fff !important;
+    #searchEngine.motor_tab_top.show_tabs .tabs li.active a span.ico {
         border: 1px solid #fff !important;
-    }
-    
-    span.ico::before:active {
-        content: '' !important;
-        /* background: #2400f6 !important; */
         color: #fff !important;
-        border: 1px solid #fff !important;
     }
     /* Termino dos Botoes */
     #searchEngine.motor_tab_top.show_tabs > .content {
