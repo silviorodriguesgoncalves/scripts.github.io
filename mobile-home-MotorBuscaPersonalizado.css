@@ -94,7 +94,7 @@
     .radio.way {
         color: #666 !important;
         text-align: center;
-        display: flex;
+        display: block;
         width: 100%;
     }
     .search_engine_v2 >.content .radio.way label * {
