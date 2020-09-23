@@ -1,4 +1,5 @@
 @media screen and (max-width: 700px) {
+    /* Inicio dos Botoes */
     div#searchEngine{
         width: 100% !important;
         margin: 0px !important;
@@ -83,12 +84,18 @@
         color: #fff !important;
         border: 1px solid #fff !important;
     }
-    
-    
+    /* Termino dos Botoes */
     #searchEngine.motor_tab_top.show_tabs > .content {
         margin-top: 66px !important;
         background-color: #fff;
         padding: 10px !important;
         box-shadow: 0 4px 5px 0 rgba(63,63,63,.6) !important;
     }
+    .search_engine_v2 >.content .radio.way label * {
+        cursor: pointer;
+        color: #666666;
+    }
+    /* Inicio dos Campos Aéreos */
+    
+    /* Termino dos Campos Aéreos */
 }
