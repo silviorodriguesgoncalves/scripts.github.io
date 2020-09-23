@@ -111,7 +111,7 @@
     }
     .search_engine_v2 >.content .radio.way label {
         padding-right: 0px !important;
-        width: 10% !important;
+        width: 100% !important;
         display: table-cell !important;
         vertical-align: middle !important;
         height: 40px !important;
