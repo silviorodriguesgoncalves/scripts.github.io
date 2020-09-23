@@ -91,6 +91,12 @@
         padding: 10px !important;
         box-shadow: 0 4px 5px 0 rgba(63,63,63,.6) !important;
     }
+    .radio.way {
+        color: #666 !important;
+        text-align: center;
+        display: inline-flex;
+        width: 100%;
+    }
     .search_engine_v2 >.content .radio.way label * {
         cursor: pointer;
         color: #666666;
