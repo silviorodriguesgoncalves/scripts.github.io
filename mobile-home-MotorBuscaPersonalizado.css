@@ -76,6 +76,9 @@
         border: 1px solid #fff !important;
         color: #fff !important;
     }
+    #searchEngine.motor_tab_top.show_tabs .tabs li.active a span.ico::before {
+        color: #fff !important;
+    }
     /* Termino dos Botoes */
     #searchEngine.motor_tab_top.show_tabs > .content {
         margin-top: 66px !important;
