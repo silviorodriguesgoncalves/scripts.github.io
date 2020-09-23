@@ -115,5 +115,11 @@
         vertical-align: middle !important;
         height: 40px !important;
     }
+    .search_engine_v2 >.content label p {
+        color: #666 !important;
+    }
+    .search_engine_v2.air.label_top .passengers label small, .search_engine_v2.hotel>.content .rooms>li label p small {
+        color: #666 !important;
+    }
     /* Termino dos Campos Aéreos */
 }
