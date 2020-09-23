@@ -60,7 +60,8 @@
     #searchEngine.motor_tab_top.show_tabs .tabs li.active a {
         background: #2400f6 !important;
         color: #fff !important;
-        font-weight: 600 !important;
+        font-weight: 700 !important;
+        font-size: 14px !important;
     }
     
     #searchEngine span:active {
