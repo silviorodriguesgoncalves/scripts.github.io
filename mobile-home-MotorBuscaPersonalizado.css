@@ -110,8 +110,9 @@
         font-weight: normal !important;
         left: 294px !important;
         top: 9px  !important;
+        border-radius: 5px !important;
     }
-    /* Inicio dos Campos Aéreos */
+    
     #searchEngine input {
         height: 40px !important;
     }
@@ -129,5 +130,6 @@
     .search_engine_v2.air.label_top .passengers label small, .search_engine_v2.hotel>.content .rooms>li label p small {
         color: #666 !important;
     }
+    /* Inicio dos Campos Aéreos */
     /* Termino dos Campos Aéreos */
 }
