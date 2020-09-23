@@ -106,7 +106,7 @@
     }
     /* Inicio dos Campos Aéreos */
     #searchEngine input {
-        height: min-content !important;
+        height: 40px !important;
     }
     .search_engine_v2 >.content .radio.way label {
         padding-right: 0px !important;
