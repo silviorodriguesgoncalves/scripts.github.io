@@ -101,6 +101,9 @@
         cursor: pointer;
         color: #666666;
     }
+    .search_engine_v2 >.content label p {
+        color: #666666 !important;
+    }
     /* Inicio dos Campos Aéreos */
     #searchEngine input {
         height: min-content !important;
