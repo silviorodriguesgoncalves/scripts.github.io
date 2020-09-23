@@ -6,7 +6,7 @@
         height: max-content !important;
         display: block !important;
     }
-    #searchEngine ul {
+    #searchEngine .tabs {
         width: 100% !important;
         height: 69px !important;
         display: block !important;
@@ -17,7 +17,7 @@
         top: 0px;
         box-shadow: 0 4px 5px 0 rgba(36, 0, 246,.6) !important;
     }
-    #searchEngine ul li {
+    #searchEngine .tabs li {
         background-color: #fff !important;
         padding: 0px !important;
         margin: 0px !important;
@@ -27,7 +27,7 @@
         border-radius: 0px !important;
         border-bottom: 1px solid #2400f6 !important;
     }
-    #searchEngine ul li a {
+    #searchEngine .tabs li a {
         background-color: #fff !important;
         color: #666 !important;
         width: 100% !important;
