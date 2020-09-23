@@ -24,7 +24,7 @@
         vertical-align: middle !important;
         width: 16.6% !important;
         border-radius: 0px !important;
-        border-top: 2px solid #2400f6 !important;
+        /* border-top: 2px solid #2400f6 !important; */
         border-bottom: 1px solid #2400f6 !important;
     }
     #searchEngine ul li a {
