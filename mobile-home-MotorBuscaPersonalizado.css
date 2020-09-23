@@ -140,7 +140,7 @@
     .vc_row.wpb_row.vc_row-fluid.fullsize {
         background-color: #ebebeb !important;
     }
-    #searchEngine >.content.hotel {
+    #searchEngine >.content.hotel, .content.service {
         padding-top: 20px !important;
     }
     /* Inicio dos Campos Aéreos */
