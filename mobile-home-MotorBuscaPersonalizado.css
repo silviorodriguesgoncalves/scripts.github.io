@@ -64,19 +64,19 @@
         font-size: 14px !important;
     }
     
-    #searchEngine span.ico:active {
+    span.ico:active {
         /* background: #2400f6 !important; */
         color: #fff !important;
         border: 1px solid #fff !important;
     }
-    /*
-    #searchEngine span.ico::before:active {
+    
+    span.ico::before:active {
         content: '' !important;
-        background: #2400f6 !important;
+        /* background: #2400f6 !important; */
         color: #fff !important;
         border: 1px solid #fff !important;
     }
-    */
+    
     
     #searchEngine.motor_tab_top.show_tabs > .content {
         margin-top: 66px !important;
