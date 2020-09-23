@@ -137,6 +137,9 @@
     .search_engine_v2 >.content .radio.way label input[type="radio"] + span::before {
         display: none !important;
     }
+    .vc_row.wpb_row.vc_row-fluid.fullsize {
+        background-color: #ebebeb !important;
+    }
     /* Inicio dos Campos Aéreos */
     /* Termino dos Campos Aéreos */
 }
