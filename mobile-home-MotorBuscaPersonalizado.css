@@ -56,11 +56,12 @@
     #searchEngine .ico:before {
         color: #666 !important;
     }
-    /*
+    
     #searchEngine.motor_tab_top.show_tabs .tabs li.active a {
         background: #2400f6 !important;
         color: #fff !important;
     }
+    /*
     #searchEngine span:active {
         background: #2400f6 !important;
         color: #fff !important;
@@ -73,6 +74,7 @@
         border: 1px solid #fff !important;
     }
     */
+    
     #searchEngine.motor_tab_top.show_tabs > .content {
         margin-top: 66px !important;
         background-color: #fff;
