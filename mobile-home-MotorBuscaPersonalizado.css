@@ -104,6 +104,13 @@
     .search_engine_v2 >.content label p {
         color: #666666 !important;
     }
+    a.clearSearchParams.clear {
+        background: #2400f6 !important;
+        text-transform: none !important;
+        font-weight: normal !important;
+        left: 294px !important;
+        top: 9px  !important;
+    }
     /* Inicio dos Campos Aéreos */
     #searchEngine input {
         height: 40px !important;
@@ -114,6 +121,7 @@
         display: table-cell !important;
         vertical-align: middle !important;
         height: 40px !important;
+        border-radius: 5px !important;
     }
     .search_engine_v2 >.content label p {
         color: #666 !important;
