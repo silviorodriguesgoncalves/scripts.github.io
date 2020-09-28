@@ -1,0 +1,52 @@
+header.main ul.aside {
+    padding: 0px !important;
+    height: 67px !important;
+    vertical-align: middle !important;
+    display: table-cell !important;
+    float: right !important;
+}
+div#fidelityLogin {
+    width: 100% !important;
+    height: 67px !important;
+    vertical-align: middle !important;
+    display: table-cell !important;
+}
+
+
+@media screen and (max-width: 700px) {
+    h1.logo {
+        height: 70px !important;
+        width: 135px !important;
+        display: table-cell !important;
+        vertical-align: middle;
+    }
+    .logo a {
+        vertical-align: middle !important;
+        height: 69px !important;
+        display: table-cell !important;
+    }
+    header.main .logo a img.mobile {
+        width: 110px;
+        margin: 0px 0px 0px 10px;
+    }
+    .wrap>.mobile_header.menuLeft {
+        width: 50% !important;
+        height: 70px !important;
+        display: table-cell !important;
+        float: left;
+    }
+    header.main ul.aside {
+        right: 0 !important;
+        top: 0 !important;
+        z-index: 2 !important;
+        width: 100% !important;
+        display: table-cell !important;
+        position: relative;
+        height: 70px !important;
+        vertical-align: middle;
+    }
+    div#fidelityLogin {
+        display: inline;
+        vertical-align: middle;
+    }
+}
