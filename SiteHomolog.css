@@ -1,47 +1,51 @@
 
     header.main {
-        background-color: #f7f7f7 !important;
+        background-color: #f7f7f7 !important ;
     }
     header.main .wrap {
-        width: 100% !important;
-        height: inherit;
+        width: 100% !important ;
+        height: inherit !important ;
     }
     header.main .logo {
-        width: 20%;
-        display: inline-table;
-        height: inherit;
-        vertical-align: middle;
+        width: 20% !important ;
+        display: inline-table !important ;
+        height: inherit !important ;
+        vertical-align: middle !important ;
     }
-    
+    .logo a {
+        vertical-align: middle !important ;
+        height: inherit !important ;
+        display: table-cell !important ;
+    }
     header.main .logo a img {
-        max-width: 110px !important;
-        margin-left: 10px !important;
+        max-width: 110px !important ;
+        margin-left: 30px !important ;
     }
     .wrap>.mobile_header.menuLeft {
-        width: 80%;
-        display: inline-table;
-        height: inherit;
-        vertical-align: middle;
+        width: 80% !important ;
+        display: inline-table !important ;
+        height: inherit im !important ;
+        vertical-align: middle !important ;
     }
     header.main ul.aside {
-        padding: 0px !important;
-        width: 100%;
-        display: inline-table;
-        height: inherit;
-        vertical-align: middle;
+        padding: 0px !important ;
+        width: 100% !important ;
+        display: inline-table !important ;
+        height: inherit !important ;
+        vertical-align: middle !important ;
     }
     article > .vc_row > .vc_col-sm-12 {
-        display: block !important;
+        display: block !important ;
     }
     .user_info_container {
-        margin-top: 5px;
+        margin-top: 5px !important ;
     }
     div#userinfo_login .userinfo_login_container {
-        padding: 8px;
+        padding: 8px !important ;
     }
     .user_info_container .userinfo_logged_out {
-        margin-top: 24px;
+        margin-top: 24px !important ;
     }
     #menu-rdc li a {
-        font-size: 10px;
+        font-size: 10px !important ;
     }
