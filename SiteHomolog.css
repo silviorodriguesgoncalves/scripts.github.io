@@ -38,7 +38,10 @@
         display: block !important ;
     }
     .user_info_container {
-        margin-top: 5px !important ;
+        margin-top: 0px !important;
+        height: inherit !important;
+        display: inline-table !important;
+        vertical-align: middle !important;
     }
     div#userinfo_login .userinfo_login_container {
         padding: 8px !important ;
