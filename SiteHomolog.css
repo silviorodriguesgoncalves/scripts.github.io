@@ -44,6 +44,10 @@
         vertical-align: middle !important;
         margin-right: 33px !important;
     }
+    .userinfo_login {
+        background-color: transparent;
+        border-radius: 0px !important;
+    }
     div#userinfo_login .userinfo_login_container {
         padding: 8px !important ;
     }
