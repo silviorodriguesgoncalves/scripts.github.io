@@ -48,7 +48,7 @@ ul#menu-menu-topo {
 }
 header.main ul.aside {
     padding: 0px !important;
-    height: 47px !important;
+    height: 47px;
 }
 div#nav_menu-4 {
     width: 90%;
