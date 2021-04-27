@@ -42,6 +42,7 @@
         height: inherit !important;
         display: inline-table !important;
         vertical-align: middle !important;
+        margin-right: 33px !important;
     }
     div#userinfo_login .userinfo_login_container {
         padding: 8px !important ;
