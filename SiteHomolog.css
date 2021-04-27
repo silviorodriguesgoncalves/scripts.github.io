@@ -24,7 +24,7 @@
     .wrap>.mobile_header.menuLeft {
         width: 80% !important ;
         display: inline-table !important ;
-        height: inherit im !important ;
+        height: inherit !important ;
         vertical-align: middle !important ;
     }
     header.main ul.aside {
