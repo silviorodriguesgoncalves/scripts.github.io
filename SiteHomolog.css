@@ -63,3 +63,7 @@
     #menu-rdc li a {
         font-size: 11px !important ;
     }
+    .search_engine_v2.custom_engine .tabs li a {
+        padding: 15px 17px !important ;
+        font-size: 12px !important ;
+    }
