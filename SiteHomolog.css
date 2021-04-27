@@ -48,13 +48,17 @@
         background-color: transparent;
         border-radius: 0px !important;
         height: inherit;
-        margin-right: 28px;
+        margin-right: 15px;
     }
     .user_info_container .userinfo_logged_out {
         margin-top: 24px !important ;
     }
     div#userinfo_login .userinfo_login_container {
-        margin-top: 4px;
+        margin-top: 2px;
+        background-color: #f2f2f2;
+        -webkit-box-shadow: 4px 4px 3px 0px rgb(50 50 50 / 75%);
+        -moz-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+        box-shadow: 5px 3px 3px -1px rgb(50 50 50 / 75%);
     }
     #menu-rdc li a {
         font-size: 10px !important ;
