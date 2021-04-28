@@ -88,6 +88,9 @@
     }
 
 /* FOOTER */
+.container >footer {
+    background: transparent !important;
+}
 .social-wrapper {
     width: 100%;
     background: #ebebeb;
