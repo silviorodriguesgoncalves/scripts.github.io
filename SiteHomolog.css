@@ -104,6 +104,6 @@ ul.tabs li {
 }
 
 .comments{
-    /* width: 1140px; */
-    /* margin: 30px auto 0 auto;
+    width: 0px !important;
+    margin: 0px !important;
 }
