@@ -1,90 +1,109 @@
+header.main {
+    background-color: #f7f7f7 !important;
+}
 
-    header.main {
-        background-color: #f7f7f7 !important ;
-    }
-    header.main .wrap {
-        width: 100% !important ;
-        height: inherit !important ;
-    }
-    header.main .logo {
-        width: 20% !important ;
-        display: inline-table !important ;
-        height: inherit !important ;
-        vertical-align: middle !important ;
-    }
-    .logo a {
-        vertical-align: middle !important ;
-        height: inherit !important ;
-        display: table-cell !important ;
-    }
-    header.main .logo a img {
-        max-width: 110px !important ;
-        margin-left: 30px !important ;
-    }
-    .wrap>.mobile_header.menuLeft {
-        width: 80% !important ;
-        display: inline-table !important ;
-        height: inherit !important ;
-        vertical-align: middle !important ;
-    }
-    header.main ul.aside {
-        padding: 0px !important ;
-        width: 100% !important ;
-        display: inline-table !important ;
-        height: inherit !important ;
-        vertical-align: middle !important ;
-    }
-    article > .vc_row > .vc_col-sm-12 {
-        display: block !important ;
-    }
-    .user_info_container {
-        margin-top: 0px !important;
-        height: inherit !important;
-        display: inline-table !important;
-        vertical-align: middle !important;
-        margin-right: 33px !important;
-    }
-    .userinfo_login {
-        background-color: transparent;
-        border-radius: 0px !important;
-        height: inherit;
-        margin-right: 15px;
-    }
-    .user_info_container .userinfo_logged_out {
-        margin-top: 24px !important ;
-    }
-    div#userinfo_login .userinfo_login_container {
-        margin-top: 2px;
-        background-color: #f2f2f2;
-        -webkit-box-shadow: 4px 4px 3px 0px rgb(50 50 50 / 75%);
-        -moz-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
-        box-shadow: 5px 3px 3px -1px rgb(50 50 50 / 75%);
-    }
-    #menu-rdc li a {
-        font-size: 11px !important ;
-    }
+header.main .wrap {
+    width: 100% !important;
+    height: inherit !important;
+}
 
-    div#searchEngine {
-        margin-top: -47px;
-    }
-    .NewMotors {
-        max-width: 100% !important;
-        background: #2400f6 !important;
-    }
-    .search_engine_v2 .tabs li{
-        margin: 0px 1px;
-    }
-    .search_engine_v2.custom_engine .tabs li a {
-        padding: 15px 17px !important ;
-        font-size: 12px !important ;
-        font-weight: 900 !important;
-    }
-    ul.tabs li {
-        background-color: rgba(255,255,255,0.6);
-        color: #595959;
-    }
-    .search_engine_v2 >.content{
-        padding: 20px;
-    }
+header.main .logo {
+    width: 20% !important;
+    display: inline-table !important;
+    height: inherit !important;
+    vertical-align: middle !important;
+}
 
+.logo a {
+    vertical-align: middle !important;
+    height: inherit !important;
+    display: table-cell !important;
+}
 
+header.main .logo a img {
+    max-width: 110px !important;
+    margin-left: 30px !important;
+}
+
+.wrap>.mobile_header.menuLeft {
+    width: 80% !important;
+    display: inline-table !important;
+    height: inherit !important;
+    vertical-align: middle !important;
+}
+
+header.main ul.aside {
+    padding: 0px !important;
+    width: 100% !important;
+    display: inline-table !important;
+    height: inherit !important;
+    vertical-align: middle !important;
+}
+
+article>.vc_row>.vc_col-sm-12 {
+    display: block !important;
+}
+
+.user_info_container {
+    margin-top: 0px !important;
+    height: inherit !important;
+    display: inline-table !important;
+    vertical-align: middle !important;
+    margin-right: 33px !important;
+}
+
+.userinfo_login {
+    background-color: transparent;
+    border-radius: 0px !important;
+    height: inherit;
+    margin-right: 15px;
+}
+
+.user_info_container .userinfo_logged_out {
+    margin-top: 24px !important;
+}
+
+div#userinfo_login .userinfo_login_container {
+    margin-top: 2px;
+    background-color: #f2f2f2;
+    -webkit-box-shadow: 4px 4px 3px 0px rgb(50 50 50 / 75%);
+    -moz-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    box-shadow: 5px 3px 3px -1px rgb(50 50 50 / 75%);
+}
+
+#menu-rdc li a {
+    font-size: 11px !important;
+}
+
+div#searchEngine {
+    margin-top: -47px;
+}
+
+.NewMotors {
+    max-width: 100% !important;
+    background: #2400f6 !important;
+}
+
+.search_engine_v2 .tabs li {
+    margin: 0px 1px;
+}
+
+.search_engine_v2.custom_engine .tabs li a {
+    padding: 15px 17px !important;
+    font-size: 12px !important;
+    font-weight: 900 !important;
+}
+
+ul.tabs li {
+    background-color: rgba(255, 255, 255, 0.6);
+    color: #595959;
+}
+
+.search_engine_v2>.content {
+    padding: 20px;
+}
+
+.comments{
+    /* width: 1140px; */
+    /* margin: 30px auto 0 auto;
+}
