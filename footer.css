@@ -1,0 +1,191 @@
+.container >footer .content{
+    width: 100% !important;
+}
+.container >footer >.content > ul > li{
+    padding: 0px !important;
+}
+.container >footer {
+    background: transparent !important;
+}
+.social-wrapper {
+    width: 100%;
+    background: #ebebeb;
+    display: table;
+    height: 80px;
+    margin: 20px 0px;
+}
+.social-wrapper .social-items {
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.social-wrapper .social-items li:first-child {
+    display: inline;
+    float: left;
+    width: 14.64285714%;
+    margin: 0 .5952381%;
+}
+.social-wrapper .social-items li span {
+    margin-top: 25px;
+    text-transform: uppercase;
+    font-family: 'Roboto' !important;
+    font-weight: 400;
+    letter-spacing: -.02em;
+    font-size: 14px;
+    color: #7d7d7d;
+    display: block;
+}
+.social-wrapper .social-items li a svg {
+    vertical-align: sub;
+    margin-bottom: -4px;
+    margin-right: 10px;
+    fill: #ccc;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+    font-family: 'Roboto' !important;
+}
+.social-wrapper .social-items li {
+    display: inline;
+    float: left;
+    width: 19%;
+    margin: 0 .5952381%;
+}
+.social-wrapper .social-items li a {
+    margin-top: 25px;
+    float: left;
+    font-family: 'Roboto' !important;
+    font-weight: 400;
+    font-size: 11px;
+    color: #7D7D7D;
+    text-decoration: none;
+    text-transform: uppercase;
+    white-space: nowrap;
+    line-height: 24px;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+.social-wrapper .social-items li a:hover svg {
+    fill: #555;
+}
+.social-wrapper .social-items li a:hover {
+    color: #555;
+}
+.first {
+    width: 90%;
+    border-top: 1px solid #e1e1e1;
+    display: block;
+    height: 0px;
+    unicode-bidi: isolate;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    overflow: hidden;
+    margin: 0px auto;
+}
+
+.middle{
+    width: 100%;
+    height: inherit;
+    display: inline-table;
+    vertical-align: middle;
+}
+.selos {
+    display: table-cell;
+    float: left;
+    text-align: left;
+    list-style: none;
+    width: 50%;
+    height: 89px;
+    padding: 0px;
+    margin: 0px;
+}
+.divSelos{
+    margin: 0px auto;
+    display: table;
+    width: 840px;
+    height: inherit;
+    vertical-align: middle;
+}
+.selos ol {
+    display: table-cell;
+    margin: 0px;
+    padding: 0px;
+    width: 84px;
+    text-align: center;
+    height: 89px;
+    vertical-align: middle;
+}
+.selos ol img {
+    vertical-align: middle;
+}
+.formas-pagamento {
+    display: inline-table;
+    float: left;
+    text-align: center;
+    list-style: none;
+    width: 50%;
+    padding: 0px;
+    margin: 0px;
+    height: 89px;
+}
+.formas-pagamento ol {
+    display: inline-block;
+    margin: 2px 1px;
+    padding: 0px;
+}
+.firstt{
+    width: 100%;
+    color: #777 !important;
+    padding-top: 5px !important;
+}
+.firstt h3{
+    margin: 5px 0px;
+    font-family: 'Roboto' !important;
+    color: #777 !important;
+}
+.formas-pagamento ol img {
+    vertical-align: middle;
+}
+.divlist{
+    margin: 0px auto;
+    display: table;
+    width: 840px;
+    height: inherit;
+    vertical-align: middle;
+    padding: 15px 0px;
+}
+.lista-link{
+    height: min-content;
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+.lista-link table{
+    height: 124px;
+    width: inherit;
+    margin: 0px;
+    padding: 0px;
+    display: inline-table;
+}
+.lista-link table tr td{
+    text-align: left;
+}
+.lista-link table a{
+    text-decoration: none;
+    color: #777 !important;
+    display: inline-table;
+    padding-left: 10px;
+}
+.th-sobre{
+    text-align: left;
+    margin: 5px 0px;
+    font-family: 'Roboto' !important;
+    color: #777 !important;
+}
