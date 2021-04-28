@@ -91,6 +91,9 @@
 .container >footer .content{
     width: 100% !important;
 }
+.container >footer >.content > ul > li{
+    padding: 0px !important;
+}
 .container >footer {
     background: transparent !important;
 }
