@@ -244,7 +244,7 @@
     padding: 15px 0px;
 }
 .lista-link{
-    height: 124px;
+    height: min-content;
     width: 50%;
     float: left;
     text-align: center;
