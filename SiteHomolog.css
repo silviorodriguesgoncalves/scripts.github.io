@@ -223,6 +223,7 @@
     width: 50%;
     padding: 0px;
     margin: 0px;
+    height: 89px;
 }
 .formas-pagamento ol {
     display: inline-block;
@@ -232,6 +233,7 @@
 .firstt{
     width: 100%;
     color: #777 !important;
+    padding-top: 5px !important;
 }
 .firstt h3{
     margin: 5px 0px;
