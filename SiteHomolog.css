@@ -225,12 +225,12 @@
 }
 .firstt{
     width: 100%;
-    color: #777;
+    color: #777 !important;
 }
 .firstt h3{
     margin: 5px 0px;
     font-family: 'Roboto' !important;
-    color: #777;
+    color: #777 !important;
 }
 .formas-pagamento ol img {
     vertical-align: middle;
@@ -261,7 +261,7 @@
 }
 .lista-link table a{
     text-decoration: none;
-    color: #777;
+    color: #777 !important;
     display: inline-table;
     padding-left: 10px;
 }
@@ -269,5 +269,5 @@
     text-align: left;
     margin: 5px 0px;
     font-family: 'Roboto' !important;
-    color: #777;
+    color: #777 !important;
 }
