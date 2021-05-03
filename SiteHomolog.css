@@ -107,3 +107,19 @@ ul.tabs li {
     width: 0px !important;
     margin: 0px !important;
 }
+
+
+
+
+
+.insurance_block {
+    /* background-color: #f7f7f7 !important; */
+    padding: 5px 0px;
+}
+.insurance_block p {
+    text-align: justify;
+}
+.insurance_block input{
+    margin: 5px !important;
+    float: left;
+}
