@@ -116,10 +116,30 @@ ul.tabs li {
     /* background-color: #f7f7f7 !important; */
     padding: 5px 0px;
 }
+.insurance_block label {
+    margin: 0px;
+}
 .insurance_block p {
     text-align: justify;
 }
 .insurance_block input{
     margin: 5px !important;
     float: left;
+}
+.insurance_block h3{
+    background-color: aliceblue;
+    padding-bottom: 2px;
+}
+.insurance_block p.price {
+    padding: 0px;
+    font-weight: 900;
+    color: #fe7000;
+    padding: 5px 0px;
+}
+.insurance_block p.price::before {
+    content: "Preço: ";
+}
+p.showBenefits {
+    cursor: pointer;
+    font-weight: 900;
 }
