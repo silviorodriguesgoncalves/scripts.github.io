@@ -12,6 +12,10 @@ div#checkout-insuranceWizard::Before {
     display: block;
     margin: 5px 10px 7px 10px;
 }
+#checkout-insuranceWizard div label {
+    width: 50%;
+    text-align: center;
+}
 #checkout-insuranceWizard h1 {
     padding: 7px;
     text-align: center;
