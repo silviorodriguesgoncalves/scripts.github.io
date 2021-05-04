@@ -4,29 +4,22 @@ div#checkout-insuranceWizard {
     background-color: #f7f7f7 !important;
     width: 100%;
 }
-/*
-div#checkout-insuranceWizard::Before {
-    content: " ";
-    background-color: #777;
-    width: 98%;
-    height: 1px;
-    display: block;
-    margin: 5px 10px 7px 10px;
-}
-*/
 
 #checkout-insuranceWizard div label {
     width: 50%;
     text-align: center;
 }
+
 #checkout-insuranceWizard h1 {
     padding: 7px;
     text-align: center;
     font-weight: 600;
 }
-.insuranceSearchBar>div> .data input[type=text] {
+
+.insuranceSearchBar>div>.data input[type=text] {
     width: 150px;
 }
+
 .insurance_block {
     background-color: aliceblue !important;
     margin: 5px !important;
@@ -70,15 +63,17 @@ p.showBenefits {
     margin-left: 5px;
 }
 
-.warningNoInsuranceOptionChosen p{
+.warningNoInsuranceOptionChosen p {
     text-align: justify;
     color: red;
 }
-.insuranceSearchBar small{
+
+.insuranceSearchBar small {
     text-align: justify;
     color: red;
     padding: 10px;
 }
+
 .warningNoInsuranceOptionChosen {
     padding: 10px;
 }
