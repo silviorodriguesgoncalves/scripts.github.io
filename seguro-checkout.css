@@ -23,6 +23,9 @@ div#checkout-insuranceWizard::Before {
     text-align: center;
     font-weight: 600;
 }
+input#dp1620136438873, input#dp1620136438874{
+    width: 150px;
+}
 .insurance_block {
     background-color: aliceblue !important;
     margin: 5px 0px !important;
