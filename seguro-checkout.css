@@ -4,6 +4,7 @@ div#checkout-insuranceWizard {
     background-color: #f7f7f7 !important;
     width: 100%;
 }
+/*
 div#checkout-insuranceWizard::Before {
     content: " ";
     background-color: #777;
@@ -12,6 +13,7 @@ div#checkout-insuranceWizard::Before {
     display: block;
     margin: 5px 10px 7px 10px;
 }
+*/
 #checkout-insuranceWizard div label {
     width: 50%;
     text-align: center;
@@ -29,6 +31,7 @@ div#checkout-insuranceWizard::Before {
 
 .insurance_block label {
     margin: 0px;
+    width: 100% !important;
 }
 
 .insurance_block p {
