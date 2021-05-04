@@ -115,6 +115,7 @@ ul.tabs li {
 .insurance_block {
     background-color: aliceblue !important;
     margin: 5px 0px !important;
+    padding: 5px 0px !important;
 }
 .insurance_block label {
     margin: 0px;
