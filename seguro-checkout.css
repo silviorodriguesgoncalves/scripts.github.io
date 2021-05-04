@@ -23,7 +23,7 @@ div#checkout-insuranceWizard::Before {
     text-align: center;
     font-weight: 600;
 }
-.insuranceSearchBar>.data label input[type=text]{
+.insuranceSearchBar>div> .data input[type=text] {
     width: 150px;
 }
 .insurance_block {
@@ -75,6 +75,7 @@ p.showBenefits {
 .insuranceSearchBar small{
     text-align: justify;
     color: red;
+    padding: 10px;
 }
 .warningNoInsuranceOptionChosen {
     padding: 10px;
