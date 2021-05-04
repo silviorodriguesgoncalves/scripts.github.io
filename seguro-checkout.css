@@ -73,3 +73,6 @@ p.showBenefits {
     text-align: justify;
     color: red;
 }
+.warningNoInsuranceOptionChosen {
+    padding: 10px;
+}
