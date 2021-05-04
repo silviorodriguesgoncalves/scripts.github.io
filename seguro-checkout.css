@@ -28,7 +28,7 @@ div#checkout-insuranceWizard::Before {
 }
 .insurance_block {
     background-color: aliceblue !important;
-    margin: 5px 0px !important;
+    margin: 5px !important;
     padding: 5px 0px !important;
 }
 
