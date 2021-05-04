@@ -50,6 +50,7 @@ div#checkout-insuranceWizard::Before {
 .insurance_block h3 {
     background-color: aliceblue;
     padding-bottom: 2px;
+    text-align: left;
 }
 
 .insurance_block p.price {
