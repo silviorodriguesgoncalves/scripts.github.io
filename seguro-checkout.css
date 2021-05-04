@@ -1,3 +1,19 @@
+div#checkout-insuranceWizard {
+    display: inline-table;
+    padding-top: 10px;
+    background-color: #f7f7f7 !important;
+}
+div#checkout-insuranceWizard::Before {
+    content: " ";
+    background-color: #777;
+    width: 98%;
+    height: 1px;
+    display: block;
+    margin: 5px 10px 7px 10px;
+}
+#checkout-insuranceWizard h1 {
+    padding: 7px;
+}
 .insurance_block {
     background-color: aliceblue !important;
     margin: 5px 0px !important;
@@ -37,4 +53,13 @@ p.showBenefits {
     cursor: pointer;
     font-weight: 900;
     margin-left: 5px;
+}
+
+.warningNoInsuranceOptionChosen p{
+    text-align: justify;
+    color: red;
+}
+.insuranceSearchBar small{
+    text-align: justify;
+    color: red;
 }
