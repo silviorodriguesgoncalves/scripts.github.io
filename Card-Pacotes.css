@@ -1,0 +1,121 @@
+.rn-car-card {
+    width: 290px;
+    position: relative;
+    float: left;
+    margin-right: 10px;
+}
+
+.card-list__thumb {
+    z-index: 1;
+    position: relative;
+    overflow: hidden;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+    max-height: 160px;
+    margin: 0px;
+}
+
+.card-list__thumb img {
+    width: 100%;
+    max-height: 160px;
+}
+
+.card-list__text {
+    float: left;
+    background: #fff;
+    min-height: 158px;
+    position: relative;
+    padding: 10px 0px 0px 0px;
+    width: 100%;
+    top: -18px;
+}
+
+.card-list__star {
+    text-align: right;
+    top: -20px;
+    position: relative;
+    z-index: 999;
+    right: 2px;
+    overflow: hidden;
+}
+.card-list__star span {
+    color: #fff;
+    top: -5px;
+    font-weight: 600;
+    text-shadow: 2px 2px 2px #000;
+}
+
+h3.card-list__destination {
+    display: block;
+    color: #2400f6 !important;
+    font-size: 14px;
+    margin: 0px;
+    padding: 0px 10px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-family: 'Roboto' !important;
+    height: 34px;
+    text-align: justify;
+    text-shadow: 0.05em 0.05em 0.1em black;
+    font-weight: 300;
+}
+
+.rn-car-card p {
+    margin: 10px 0;
+    font-family: 'Roboto' !important;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #555;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+    padding: 0px 10px;
+}
+
+.card-list__btn {
+    z-index: 3;
+    width: 100%;
+    height: 100%;
+    font-size: 100%;
+    background: #2400f6 !important;
+    margin: 0px auto;
+    text-align: center;
+    color: #fff;
+    font-family: 'Roboto' !important;
+    text-decoration: none;
+    padding: 7px 0px;
+    display: block;
+}
+
+.card-list__off {
+    font-family: 'Roboto' !important;
+    font-weight: 500;
+    font-size: 12px;
+    color: #7d7d7d;
+}
+
+.card-list__price {
+    font-size: 20px;
+    font-weight: 600;
+    color: #fe7000;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+.rn-car-card p.description-price {
+    color: #777;
+    font-family: 'Roboto' !important;
+    font-size: 9px;
+    font-weight: 700;
+    letter-spacing: -.22px;
+    margin: -4px 0 0;
+}
