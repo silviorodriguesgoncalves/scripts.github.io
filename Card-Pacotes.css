@@ -92,6 +92,7 @@ h3.card-list__destination {
     text-decoration: none;
     padding: 7px 0px;
     display: block;
+    cursor: pointer;
 }
 
 .card-list__off {
