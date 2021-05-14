@@ -119,3 +119,26 @@ h3.card-list__destination {
     letter-spacing: -.22px;
     margin: -4px 0 0;
 }
+
+
+
+.banner-principal>.vc_column-inner>.wpb_wrapper>.wpb_single_image.wpb_content_element.vc_align_center {
+    margin-bottom: 0px;
+}
+
+.banner-principal img.vc_single_image-img {
+    height: 477px !important;
+}
+
+.disponibilidades-pacotes>.wpb_wrapper {
+    display: inline-block;
+    text-align: center;
+    margin: 0px auto;
+    padding: 10px;
+    max-width: 1200px;
+}
+.wpb_text_column.wpb_content_element.disponibilidades-pacotes {
+    text-align: center;
+    margin: 0px auto;
+    display: inline-block;
+}
