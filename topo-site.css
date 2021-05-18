@@ -18,6 +18,11 @@ header.main h1.logo {
     vertical-align: middle !important;
     float: left !important;
 }
+header.main h1.logo a {
+    height: 100% !important;
+    display: table-cell;
+    vertical-align: middle !important;
+}
 @media screen and (max-width: 700px){
 
 }
