@@ -1,3 +1,9 @@
-*{
-    margin: 0px;
+header.have_sidebar.main.menu_03 {
+    display: table-cell !important;
+    vertical-align: middle !important;
+    width: 100% !important;
+    height: min-content !important;
+}
+@media screen and (max-width: 700px){
+    
 }
