@@ -41,7 +41,7 @@ div#user_info_container {
     display: table-cell !important;
 }
 div#userinfo_logged_out {
-    margin: 0px;
+    margin-top: 26px !important;
 }
 div#userinfo_login {
     margin: 10px 0px;
