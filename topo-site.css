@@ -53,4 +53,7 @@ div#userinfo_login {
         width: 100% !important;
         background-color: #2400F6;
     }
+    .logo a img.mobile {
+        width: 100px;
+    }
 }
