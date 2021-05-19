@@ -56,5 +56,9 @@ div#userinfo_login {
     }
     .logo a img.mobile {
         width: 100px;
+        margin: 0px;
+    }
+    .touch.menu_open:before {
+        background: #fff !important;
     }
 }
