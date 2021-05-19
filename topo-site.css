@@ -37,6 +37,8 @@ div#user_info_container {
     margin: 0px;
     padding: 0px;
     height: 87px;
+    vertical-align: middle !important;
+    display: table-cell !important;
 }
 div#userinfo_logged_out {
     margin: 0px;
