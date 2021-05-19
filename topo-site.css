@@ -52,11 +52,11 @@ div#userinfo_login {
         height: 60px !important;
         width: 100% !important;
         background-color: #2400F6;
-        display: table;
+        display: table !important;
     }
     .logo a img.mobile {
-        width: 100px;
-        margin: 0px;
+        width: 100px !important;
+        margin: 0px !important;
     }
     .touch.menu_open:before {
         background: #fff !important;
