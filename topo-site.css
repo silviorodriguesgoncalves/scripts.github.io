@@ -58,9 +58,7 @@ div#userinfo_login {
         width: 100px !important;
         margin: 0px !important;
     }
-    .touch.menu_open:before {
-        background: #fff !important;
-    }
+
     header.main ul.aside {
         float: left !important;
         right: 0 !important;
@@ -70,7 +68,7 @@ div#userinfo_login {
         height: 100% !important;
         width: 100% !important;
     }
-    .touch.menu_open::after , ::before{
+    .touch.menu_open:after{
         border: solid #fff !important;
     }
 }
