@@ -68,7 +68,19 @@ div#userinfo_login {
         height: 100% !important;
         width: 100% !important;
     }
-    .touch.menu_open:after{
-        border: solid #fff !important;
+    .touch.menu_open{
+        top: 35px;
+        left: auto;
+        right: 25px;
+        font-size: 0;
+        
+        position: absolute;
+        
+        width: 25px;
+        height: 20px;
+        cursor: pointer;
+        border: solid #fff;
+        border-width: 3px 0;
+        z-index: 110;
     }
 }
