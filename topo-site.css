@@ -88,6 +88,10 @@ div#userinfo_login {
         width: 100px;
         float: left;
     }
+    div#userinfo_login{
+        background-color: transparent !important;
+        color: white !important;
+    }
     .container>.mobile_header.menuLeft {
         float: left;
         height: 87px;
