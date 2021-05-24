@@ -88,4 +88,10 @@ div#userinfo_login {
         width: 100px;
         float: left;
     }
+    .container>.mobile_header.menuLeft {
+        float: left;
+        height: 87px;
+        vertical-align: middle;
+        display: table-cell;
+    }
 }
