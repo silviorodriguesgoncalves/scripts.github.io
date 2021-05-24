@@ -138,4 +138,8 @@ div#userinfo_login {
         font-size: 38px;
         margin-left: 1px;
     }
+    .popuplogin.balance {
+        width: 95%;
+        padding: 10px;
+    }
 }
