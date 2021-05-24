@@ -83,4 +83,9 @@ div#userinfo_login {
         border-width: 3px 0;
         z-index: 110;
     }
+
+    div#user_info_container{
+        width: 100px;
+        float: left;
+    }
 }
