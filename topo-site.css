@@ -107,4 +107,13 @@ div#userinfo_login {
     .greeting,.balance,.extra span{
         color: #fff !important;
     }
+    span.name {
+        color: #fff !important;
+    }
+    span#top_balance_points {
+        color: #fff !important;
+    }
+    span.points{
+        margin-right: 0px !important
+    }
 }
