@@ -73,9 +73,7 @@ div#userinfo_login {
         left: auto;
         right: 25px;
         font-size: 0;
-        
         position: absolute;
-        
         width: 25px;
         height: 20px;
         cursor: pointer;
@@ -83,9 +81,11 @@ div#userinfo_login {
         border-width: 3px 0;
         z-index: 110;
     }
-
+    header .userinfo_login_container{
+        width: 210px;
+    }
     div#user_info_container{
-        width: 100px;
+        width: 230px;
         float: left;
     }
     div#userinfo_login{
