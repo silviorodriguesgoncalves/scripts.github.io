@@ -116,4 +116,13 @@ div#userinfo_login {
     span.points{
         margin-right: 0px !important
     }
+    div#userinfo_login .userinfo_login_container .extra span.balance.item2{
+        padding-left: 60px;
+    }
+    div#userinfo_login .userinfo_login_container .extra span.balance.item2:before{
+        left: 77px;
+    }
+    div#userinfo_login .userinfo_login_container .extra span.balance.item2:after{
+        left: 71px;
+    }
 }
