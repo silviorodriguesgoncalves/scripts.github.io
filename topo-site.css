@@ -104,4 +104,7 @@ div#userinfo_login {
     .greeting, .balance ,.extra {
         width: 208px;
     }
+    .greeting,.balance,.extra span{
+        color: #fff !important;
+    }
 }
