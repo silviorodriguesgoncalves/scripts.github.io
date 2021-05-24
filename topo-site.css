@@ -56,7 +56,7 @@ div#userinfo_login {
     }
     .logo a img.mobile {
         width: 100px !important;
-        margin: 0px !important;
+        margin: 0px 10px !important;
     }
 
     header.main ul.aside {
