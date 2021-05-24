@@ -101,4 +101,7 @@ div#userinfo_login {
         display: block;
         right: 19px;
     }
+    .greeting, .balance ,.extra {
+        width: 208px;
+    }
 }
