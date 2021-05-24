@@ -130,4 +130,9 @@ div#userinfo_login {
     div#userinfo_login .userinfo_login_container .extra span.balance.item2:after{
         left: 71px;
     }
+    i.material-icons.outlined {
+        color: #2400F6;
+        font-size: 38px;
+        margin-left: 1px;
+    }
 }
