@@ -94,7 +94,10 @@ div#userinfo_login {
         width: 230px !important;
         border: 1px solid #fff;
     }
-    
+    div#userinfo_logged_out {
+        margin-top: 29px !important;
+        margin-left: 67px;
+    }
     label.menu-hamburguer {
         float: right;
         top: -63px;
