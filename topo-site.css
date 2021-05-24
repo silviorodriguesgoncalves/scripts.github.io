@@ -94,13 +94,11 @@ div#userinfo_login {
         width: 230px !important;
         border: 1px solid #fff;
     }
-    .greeting.w-100 {
-        width: 200px;
-    }
-    .container>.mobile_header.menuLeft {
-        float: left;
-        height: 87px;
-        vertical-align: middle;
-        display: table-cell;
+    
+    label.menu-hamburguer {
+        float: right;
+        top: -58px;
+        display: block;
+        right: 19px;
     }
 }
