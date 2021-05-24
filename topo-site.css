@@ -92,7 +92,7 @@ div#userinfo_login {
         background-color: transparent !important;
         color: white !important;
         width: 230px !important;
-        border: 1px solid #fff;
+        /* border: 1px solid #fff; */
     }
     div#userinfo_logged_out {
         margin-top: 29px !important;
