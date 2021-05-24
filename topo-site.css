@@ -142,4 +142,9 @@ div#userinfo_login {
         width: 95%;
         padding: 10px;
     }
+    a#login_balance {
+        color: orange !important;
+        font-style: italic;
+        text-decoration: underline !important;
+    }
 }
