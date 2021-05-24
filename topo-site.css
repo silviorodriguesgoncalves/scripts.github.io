@@ -91,6 +91,11 @@ div#userinfo_login {
     div#userinfo_login{
         background-color: transparent !important;
         color: white !important;
+        width: 230px !important;
+        border: 1px solid #fff;
+    }
+    .greeting.w-100 {
+        width: 200px;
     }
     .container>.mobile_header.menuLeft {
         float: left;
