@@ -110,9 +110,10 @@
         background: #2400f6 !important;
         text-transform: none !important;
         font-weight: normal !important;
-        left: 294px !important;
-        top: 9px  !important;
         border-radius: 5px !important;
+        padding: 10px;
+        float: right;
+        margin: 10px 0px;
     }
     
     #searchEngine input {
