@@ -152,5 +152,14 @@
         padding-top: 20px !important;
     }
     /* Inicio dos Campos Aéreos */
+    label.adults.select p {
+        width: 80px;
+    }
+    label.children.select p {
+        width: 80px;
+    }
+    label.babies.select p {
+        width: 80px;
+    }
     /* Termino dos Campos Aéreos */
 }
