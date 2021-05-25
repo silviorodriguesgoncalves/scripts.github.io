@@ -155,7 +155,7 @@
     #searchEngine .send{
         margin: 15px 0px !important;
     }
-    
+
     /* Inicio dos Campos Aéreos */
     label.adults.select p {
         width: 80px;
@@ -198,6 +198,9 @@
     }
     #searchEngine >.content.dynamicpackage .advanced.travelers.passengers .content .travelers_ages .ages li label.package-hotel {
         display: none;
+    }
+    #searchEngine >.content.dynamicpackage .advanced.travelers.passengers .content .travelers_ages .ages li{
+        display: contents !important;
     }
     /* Termino Campos Monte seu Pacotes */
 }
