@@ -116,7 +116,7 @@
     }
     
     #searchEngine input {
-        height: 40px !important;
+        height: 0px !important;
         font-size: 15px !important;
     }
     .search_engine_v2 >.content .radio.way label {
