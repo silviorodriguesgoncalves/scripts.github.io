@@ -20,6 +20,16 @@
         box-shadow: 0 4px 5px 0 rgba(36, 0, 246,.6) !important;
         padding: 0px !important;
     }
+    #searchEngine.motor_tab_top.show_tabs .tabs li {
+        height: max-content !important;
+        /* background: #ddd !important; */
+        font-size: 0 !important;
+        margin: 0px !important;
+        padding: 0px !important;
+        width: 20% !important;
+        float: left;
+        display: block !important;
+    }/*
     #searchEngine .tabs li {
         background-color: #fff !important;
         padding: 0px !important;
@@ -29,7 +39,7 @@
         width: 16.6% !important;
         border-radius: 0px !important;
         border-bottom: 1px solid #2400f6 !important;
-    }
+    }*/
     #searchEngine .tabs li a {
         background-color: #fff !important;
         color: #666 !important;
