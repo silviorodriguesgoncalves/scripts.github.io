@@ -85,10 +85,15 @@
     .radio.way {
         color: #777 !important;
         text-align: center;
-        display: block;
-        width: 106%;
+        display: table !important;
+        width: 100%;
+        float: left;
+        height: 50px;
+        margin: 0px;
+        padding: 0px;
+        vertical-align: middle;
         position: relative;
-        left: -10px;
+        top: 4px;
     }
     .search_engine_v2 >.content .radio.way label * {
         cursor: pointer;
@@ -112,7 +117,7 @@
     }
     .search_engine_v2 >.content .radio.way label {
         padding-right: 0px !important;
-        width: 130px !important;
+        width: 33.33% !important;
         display: table-cell !important;
         vertical-align: middle !important;
         height: 40px !important;
