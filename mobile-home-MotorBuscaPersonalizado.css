@@ -121,8 +121,8 @@
         font-size: 12px !important;
     }
     #searchEngine .advanced.travelers.passengers .content label.select select{
-        height: 30px;
-        padding: 6px 0;
+        height: 30px !important;
+        padding: 6px 0 !important;
         font-size: 12px !important;
     }
     .search_engine_v2 >.content .radio.way label {
