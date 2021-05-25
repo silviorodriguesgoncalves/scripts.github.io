@@ -77,10 +77,13 @@
     }
     /* Termino dos Botoes */
     #searchEngine.motor_tab_top.show_tabs > .content {
-        margin-top: 66px !important;
-        background-color: #fff;
-        padding: 10px;
-        box-shadow: 0 4px 5px 0 rgba(63,63,63,.6) !important;
+        background-color: #FFF;
+        box-shadow: 0 4px 5px 0 rgb(63 63 63 / 60%) !important;
+        float: left;
+        display: block !important;
+        padding: 0px 5px;
+        margin: 0px 10px;
+        width: auto;
     }
     .radio.way {
         color: #777 !important;
