@@ -113,7 +113,7 @@
         border-radius: 5px !important;
         padding: 10px;
         float: right;
-        margin: 10px 0px;
+        margin: 0px 0px 10px 0px;
     }
     
     #searchEngine input {
