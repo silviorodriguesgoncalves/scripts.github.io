@@ -65,6 +65,7 @@
         color: #fff !important;
         font-weight: 700 !important;
         font-size: 10px !important;
+        height: 69px !important;
     }
     
     #searchEngine.motor_tab_top.show_tabs .tabs li.active a span.ico {
