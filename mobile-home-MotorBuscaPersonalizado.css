@@ -177,4 +177,11 @@
         display: table !important;
     }
     /* Termino Campos Hotel */
+    /* Inicio Campos Pacotes */
+    #searchEngine .destination .going_to select{
+        height: 30px !important;
+        padding: 6px 0 !important;
+        font-size: 12px !important;
+    }
+    /* Termino Campos Pacotes */
 }
