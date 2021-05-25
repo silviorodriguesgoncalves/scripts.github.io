@@ -37,7 +37,7 @@
         height: min-content !important;
         text-align: center !important;
         line-height: inherit !important;
-        font-size: 11px !important;
+        font-size: 10px !important;
         text-transform: none !important;
         font-weight: normal !important;
         margin: 0px auto !important;
@@ -64,7 +64,7 @@
         background: #2400f6 !important;
         color: #fff !important;
         font-weight: 700 !important;
-        font-size: 14px !important;
+        font-size: 10px !important;
     }
     
     #searchEngine.motor_tab_top.show_tabs .tabs li.active a span.ico {
