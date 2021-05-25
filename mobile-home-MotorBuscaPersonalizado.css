@@ -199,8 +199,6 @@
     #searchEngine >.content.dynamicpackage .advanced.travelers.passengers .content .travelers_ages .ages li label.package-hotel {
         display: none;
     }
-    #searchEngine >.content.dynamicpackage .advanced.travelers.passengers .content .travelers_ages .ages li{
-        display: contents !important;
-    }
+    
     /* Termino Campos Monte seu Pacotes */
 }
