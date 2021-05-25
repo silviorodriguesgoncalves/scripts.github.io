@@ -165,4 +165,15 @@
     #searchEngine .send{
         margin: 15px 0px !important;
     }
+    /* Inicio Campos Hotel */
+    #searchEngine >.content.hotel .rooms_number {
+        width: 50%;
+        display: none;
+    }
+    .search_engine_v2.hotel.label_top .content .rooms > li > strong{
+        padding: 10px 0px !important;
+        vertical-align: middle !important;
+        display: table !important;
+    }
+    /* Termino Campos Hotel */
 }
