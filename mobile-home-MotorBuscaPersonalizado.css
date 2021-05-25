@@ -116,8 +116,8 @@
     }
     
     #searchEngine input {
-        height: 0px !important;
-        font-size: 15px !important;
+        height: 30px !important;
+        font-size: 12px !important;
     }
     .search_engine_v2 >.content .radio.way label {
         padding-right: 0px !important;
