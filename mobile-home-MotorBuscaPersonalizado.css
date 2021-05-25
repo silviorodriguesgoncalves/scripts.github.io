@@ -152,6 +152,10 @@
     #searchEngine >.content.hotel, .content.service, .content.package , .content.tour{
         padding-top: 20px !important;
     }
+    #searchEngine .send{
+        margin: 15px 0px !important;
+    }
+    
     /* Inicio dos Campos Aéreos */
     label.adults.select p {
         width: 80px;
@@ -163,9 +167,7 @@
         width: 80px;
     }
     /* Termino dos Campos Aéreos */
-    #searchEngine .send{
-        margin: 15px 0px !important;
-    }
+
     /* Inicio Campos Hotel */
     #searchEngine >.content.hotel .rooms_number {
         width: 50%;
@@ -177,6 +179,7 @@
         display: table !important;
     }
     /* Termino Campos Hotel */
+
     /* Inicio Campos Pacotes */
     #searchEngine .destination .going_to select{
         height: 30px !important;
@@ -184,5 +187,17 @@
         font-size: 12px !important;
         margin-top: 0px !important;
     }
+    #searchEngine >.content.self_package .from {
+        padding-bottom: 10px;
+    }
     /* Termino Campos Pacotes */
+
+    /* Inicio Campos Monte seu Pacotes */
+    .content.dynamicpackage {
+        padding-top: 15px !important;
+    }
+    #searchEngine >.content.dynamicpackage .advanced.travelers.passengers .content .travelers_ages .ages li label.package-hotel {
+        display: none;
+    }
+    /* Termino Campos Monte seu Pacotes */
 }
