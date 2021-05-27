@@ -7,13 +7,11 @@
     }
     .menu-mobile {
         vertical-align: middle;
-        height: 70px;
-        display: table-cell;
-        width: 33.33%;
+        height: min-content;
+        width: max-content;
         text-align: center;
-        right: 0;
-        top: 27px;
-        position: absolute;
+        float: right;
+        margin: -60px 32px 0px 0px;
     }
     .menu-hamburguer-mobile {
         display: none;
