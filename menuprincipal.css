@@ -95,9 +95,11 @@
     }
     .label-sub1 {
         margin-left: 25px;
+        margin-bottom: 0px;
     }
     .label-sub2 {
         margin-left: 40px;
+        margin-bottom: 0px;
     }
     ul ul {
         display: none;
