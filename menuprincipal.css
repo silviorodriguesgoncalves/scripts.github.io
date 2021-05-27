@@ -197,6 +197,7 @@
         -o-transition: all 300ms ease;
         left: -300%;
         z-index: 3;
+        height: 100%;
     }
     #menu-hamburguer:checked~#nav-menu-mobile {
         left: 0;
