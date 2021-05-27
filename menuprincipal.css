@@ -1,24 +1,21 @@
-@media(max-width:768px) {
+@media screen and (max-width: 700px) {
     #mobile-header {
         background-color: blue;
-      }
-      .padding0{
+    }
+    .padding0 {
         padding-top: 0px !important;
-      }
-  
-      .menu-mobile {
+    }
+    .menu-mobile {
         vertical-align: middle;
         height: 70px;
         display: table-cell;
         width: 33.33%;
         text-align: center;
-      }
-  
-      .menu-hamburguer-mobile {
+    }
+    .menu-hamburguer-mobile {
         display: none;
-      }
-  
-      .label-hamburger {
+    }
+    .label-hamburger {
         border: 1px solid #FFF;
         border-radius: 25px;
         background-color: #fff;
@@ -27,204 +24,162 @@
         display: inline-table;
         vertical-align: middle;
         width: 34px;
-      }
-  
-      .label-hamburger i.material-icons.outlined {
+    }
+    .label-hamburger i.material-icons.outlined {
         color: #2400f6;
         font-size: 32px;
         margin: 0px;
         padding: 0px;
         display: table-footer-group;
-      }
-  
-      /* F. Topo */
-      -->.provisorio {
+    }
+    /* F. Topo */
+    .provisorio {
         width: 110px;
         margin: 15px 0px 5px 15px;
-      }
-  
-      /* Menu principal */
-      #menu-principal-mobile {
+    }
+    /* Menu principal */
+    #menu-principal-mobile {
         background-color: #2400f6;
         width: 70%;
         min-height: 100%;
-      }
-  
-      #menu-principal-mobile li {
+    }
+    #menu-principal-mobile li {
         list-style: none;
         padding-top: 10px;
         text-align: left;
-      }
-  
-      #menu-principal-mobile ul li {
+    }
+    #menu-principal-mobile ul li {
         border-left: 1px solid #ffffff;
-      }
-  
-      #menu-principal-mobile li a {
+    }
+    #menu-principal-mobile li a {
         width: 100%;
         color: #ffffff;
         text-decoration: none;
-  
         font-size: 16px;
         font-weight: 600;
         margin-left: 10px;
         text-decoration: none;
-      }
-  
-      #menu-principal-mobile li label {
+    }
+    #menu-principal-mobile li label {
         width: 100%;
         color: #ffffff;
         text-decoration: none;
-  
         font-size: 16px;
         font-weight: 600;
         margin-left: 10px;
         text-decoration: none;
-      }
-  
-  
-      #menu-principal-mobile .checkbox-menu {
+    }
+    #menu-principal-mobile .checkbox-menu {
         display: none;
-      }
-  
-  
-      #menu-principal-mobile ul li {
+    }
+    #menu-principal-mobile ul li {
         border-left: 1px solid #ffffff;
-      }
-  
-      #menu-principal-mobile ul li a {
+    }
+    #menu-principal-mobile ul li a {
         width: 100%;
         color: #ffffff;
         text-decoration: none;
-  
         font-size: 13px;
         font-weight: 600;
         margin-left: 10px;
         text-decoration: none;
-      }
-  
-      #menu-principal-mobile ul li label {
+    }
+    #menu-principal-mobile ul li label {
         width: 100%;
         color: #ffffff;
         text-decoration: none;
-  
         font-size: 13px;
         font-weight: 600;
         margin-left: 10px;
         text-decoration: none;
-      }
-  
-      .label-sub1 {
+    }
+    .label-sub1 {
         margin-left: 25px;
-      }
-  
-      .label-sub2 {
+    }
+    .label-sub2 {
         margin-left: 40px;
-      }
-  
-      ul ul {
+    }
+    ul ul {
         display: none;
         padding-left: 20px;
-      }
-  
-      #menu-principal-mobile ul ul li a {
+    }
+    #menu-principal-mobile ul ul li a {
         width: 100%;
         color: #ffffff;
         text-decoration: none;
-  
         font-size: 12px;
         font-weight: 300;
         margin-left: 10px;
         text-decoration: none;
-      }
-  
-      #menu-principal-mobile ul ul li label {
+    }
+    #menu-principal-mobile ul ul li label {
         width: 100%;
         color: #ffffff;
         text-decoration: none;
-  
         font-size: 12px;
         font-weight: 300;
         margin-left: 10px;
         text-decoration: none;
-      }
-  
-      #pacotes:checked~ul {
+    }
+    #pacotes:checked~ul {
         display: block;
         background: #2400f6;
-      }
-  
-      #pac-norte:checked~ul {
+    }
+    #pac-norte:checked~ul {
         display: block;
         background: #2400f6;
-      }
-  
-      #pac-nordeste:checked~ul {
+    }
+    #pac-nordeste:checked~ul {
         display: block;
         background: #2400f6;
-      }
-  
-      #pac-centro-oeste:checked~ul {
+    }
+    #pac-centro-oeste:checked~ul {
         display: block;
         background: #2400f6;
-      }
-  
-      #pac-sudeste:checked~ul {
+    }
+    #pac-sudeste:checked~ul {
         display: block;
         background: #2400f6;
-      }
-  
-      #pac-sul:checked~ul {
+    }
+    #pac-sul:checked~ul {
         display: block;
         background: #2400f6;
-      }
-  
-  
-  
-      /* Redes Sociais */
-      .redes-sociais {
+    }
+    /* Redes Sociais */
+    .redes-sociais {
         height: 100%;
         padding: 20px 0px;
-      }
-  
-      #menu-principal-mobile table {
+    }
+    #menu-principal-mobile table {
         width: 100%;
         height: max-content;
         display: table;
-      }
-  
-      #menu-principal-mobile table tr {
+    }
+    #menu-principal-mobile table tr {
         width: 100%;
         height: max-content;
-      }
-  
-      #menu-principal-mobile table tr td {
+    }
+    #menu-principal-mobile table tr td {
         width: 25%;
         height: max-content;
         text-align: center;
-      }
-  
-      #menu-principal-mobile table tr td a {
+    }
+    #menu-principal-mobile table tr td a {
         text-decoration: none;
-      }
-  
-      #menu-principal-mobile span {
+    }
+    #menu-principal-mobile span {
         width: 100%;
         color: #ffffff;
         text-decoration: none;
-  
         font-size: 12px;
         font-weight: 600;
         padding: 30px 0px;
         display: block;
-      }
-  
-      #menu-principal-mobile i::before {
+    }
+    #menu-principal-mobile i::before {
         color: #fff;
-      }
-  
-  
-      #nav-menu-mobile {
+    }
+    #nav-menu-mobile {
         position: absolute;
         top: 0;
         width: 100%;
@@ -234,13 +189,11 @@
         -moz-transition: all 300ms ease;
         -o-transition: all 300ms ease;
         left: -300%;
-      }
-  
-      #menu-hamburguer:checked~#nav-menu-mobile {
+    }
+    #menu-hamburguer:checked~#nav-menu-mobile {
         left: 0;
-      }
-  
-      .close {
+    }
+    .close {
         display: inline-block;
         font-size: 0;
         height: 100%;
@@ -248,51 +201,43 @@
         cursor: pointer;
         position: absolute;
         right: 0;
-      }
-  
-      /* Redes Sociais */
-      #redes-sociais-menu p {
+    }
+    /* Redes Sociais */
+    #redes-sociais-menu p {
         text-align: center;
         color: #fff;
-      }
-  
-      #redes-sociais-menu p span {
+    }
+    #redes-sociais-menu p span {
         padding: 10px 0px;
         font-size: 15px;
         font-weight: 300;
-      }
-  
-      #redes-sociais-menu ul {
+    }
+    #redes-sociais-menu ul {
         display: inline-block;
         width: 100%;
         text-align: center;
         padding: 0px 0px 20px 0px;
-      }
-  
-      #redes-sociais-menu ul li {
+    }
+    #redes-sociais-menu ul li {
         display: inline-flex;
         width: 20%;
         text-align: center;
         border-left: none;
-      }
-  
-      #redes-sociais-menu ul li a {
+    }
+    #redes-sociais-menu ul li a {
         width: 100%;
-      }
-  
-      #redes-sociais-menu ul li a svg {
+    }
+    #redes-sociais-menu ul li a svg {
         fill: #fff;
-      }
-  
-      #menu-principal-mobile hr {
+    }
+    #menu-principal-mobile hr {
         margin: 20px 11px 5px 11px;
-      }
-  
-      i.material-icons.outlined {
+    }
+    i.material-icons.outlined {
         top: 8px;
         position: relative;
         right: 7px;
-      }
+    }
 }
 
 .icones-menu {
