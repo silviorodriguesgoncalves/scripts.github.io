@@ -75,6 +75,7 @@
     }
     #menu-principal-mobile ul li {
         border-left: 1px solid #ffffff;
+        padding-top: 0px;
     }
     #menu-principal-mobile ul li a {
         width: 100%;
@@ -105,6 +106,9 @@
     ul ul {
         display: none;
         padding-left: 20px;
+    }
+    #menu-principal-mobile ul li li {
+        padding-top: 10px;
     }
     #menu-principal-mobile ul ul li a {
         width: 100%;
