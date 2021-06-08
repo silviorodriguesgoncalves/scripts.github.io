@@ -301,8 +301,8 @@ header.main.menu_02 {
 }
 
 #menu-rdc li:hover>a {
-    color: #fff;
-    background-color: #2400f6
+    background-color: #fff;
+    color: #2400f6;
 }
 
 #menu-rdc li a:hover {
