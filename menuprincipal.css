@@ -295,8 +295,8 @@ header.main.menu_02 {
 }
 
 #menu-rdc li:hover {
-    background-color: #2400f6;
-    color: #fff;
+    background-color: #fff;
+    color: #2400f6;
     z-index: 3
 }
 
