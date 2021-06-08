@@ -1,6 +1,9 @@
 .wpb_button, .wpb_content_element, ul.wpb_thumbnails-fluid>li{
     margin-bottom: 0px !important;
 }
+.NewMotors {
+    background-color: #2400f6;
+}
 @media screen and (max-width: 700px) {
     /* Inicio dos Botoes */
     div#searchEngine{
