@@ -268,7 +268,8 @@ header.main.menu_02 {
     list-style: none;
     display: flex;
     background-color: transparent;
-    width: 100%
+    width: 100%;
+    max-width: 1140px;
 }
 
 #menu-rdc li {
