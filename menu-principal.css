@@ -308,6 +308,7 @@ header.main.menu_02 {
 #menu-rdc li a:hover {
     background-color: #fff;
     color: #2400f6;
+    transition: none;
 }
 
 #menu-rdc ul {
