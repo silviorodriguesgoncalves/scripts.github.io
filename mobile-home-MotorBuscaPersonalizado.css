@@ -21,6 +21,9 @@ div#searchEngine .content label {
 .search_engine_v2 >.content {
     margin: 15px 0px !important;
 }
+.advanced.settings {
+    display: none !important;
+}
 @media screen and (max-width: 700px) {
     /* Inicio dos Botoes */
     div#searchEngine{
