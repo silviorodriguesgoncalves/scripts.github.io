@@ -24,6 +24,18 @@ div#searchEngine .content label {
 .advanced.settings {
     display: none !important;
 }
+label.qtdaRoom.rooms_number.select {
+    display: none !important;
+}
+.search-engine-roomContainer strong {
+    display: none !important;
+}
+.travelers_ages p {
+    visibility: hidden;
+}
+label.room.package-hotel.select {
+    display: none;
+}
 @media screen and (max-width: 700px) {
     /* Inicio dos Botoes */
     div#searchEngine{
