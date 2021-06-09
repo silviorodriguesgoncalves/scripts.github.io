@@ -18,7 +18,9 @@ div#searchEngine {
 div#searchEngine .content label {
     color: #fff !important;
 }
-
+.search_engine_v2 >.content {
+    margin: 15px 0px !important;
+}
 @media screen and (max-width: 700px) {
     /* Inicio dos Botoes */
     div#searchEngine{
