@@ -36,6 +36,9 @@ label.qtdaRoom.rooms_number.select {
 label.room.package-hotel.select {
     display: none;
 }
+.search_engine_v2.custom_engine.dynamicpackage > .content .travelers > .content .passenger-container {
+    width: auto !important;
+}
 @media screen and (max-width: 700px) {
     /* Inicio dos Botoes */
     div#searchEngine{
