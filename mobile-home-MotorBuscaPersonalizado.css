@@ -13,7 +13,10 @@ div#searchEngine {
     color: #595959;
 }
 .search_engine_v2.custom_engine .tabs li.active a{
-    background-color: #2400f6;
+    background-color: #2400f6 !important;
+}
+#searchEngine span{
+    color: #fff;
 }
 @media screen and (max-width: 700px) {
     /* Inicio dos Botoes */
