@@ -4,8 +4,8 @@
     }
     #externo-items-wrapper p{
         width: auto;
-        height: 160px;
-
+        height: 200px;
+        line-height: 20px;
         object-fit: cover;
         text-align: justify;
         padding: 10px;
@@ -21,7 +21,7 @@
     .externo-item{
         flex: none;
         width: 70%;
-        height: 241px;
+        height: 281px;
         pointer-events: none;
         scroll-snap-align: start; /* when two values set first is block, second inline */
         background-color: #2400f6;
