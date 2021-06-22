@@ -3,7 +3,7 @@
         width: 100vw;
     }
     #externo-items-wrapper p{
-        width: 100%;
+        width: auto;
         height: 207px;
 
         object-fit: cover;
