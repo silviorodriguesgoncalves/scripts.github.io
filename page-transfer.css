@@ -28,7 +28,7 @@
         background-color: #2400f6;
         margin: 0px 10px;
     }  
-    span {
+    .externo-item div span {
         border: 1px solid #2400f6;
         background-color: #fff;
         display: table-cell;
