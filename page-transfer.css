@@ -47,7 +47,7 @@
     box-shadow: 0 12px 20px rgb(68 68 68 / 20%);
 }
 .search_engine_v2.service.custom_engine .destination {
-    width: 50%;
+    width: 50% !important;
     float: left;
 }
 .search_engine_v2.service.custom_engine label.date {
