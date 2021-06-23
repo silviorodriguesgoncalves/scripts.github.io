@@ -68,7 +68,7 @@
     .externo-item{
         flex: none;
         width: 70%;
-        height: 300px;
+        height: 380px;
         pointer-events: none;
         scroll-snap-align: start; /* when two values set first is block, second inline */
         background-color: #2400f6;
