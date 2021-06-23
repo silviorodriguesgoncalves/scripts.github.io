@@ -50,7 +50,7 @@
     }
     #externo-items-wrapper p{
         width: auto;
-        height: 200px;
+        height: min-content;
         line-height: 20px;
         object-fit: cover;
         text-align: justify;
