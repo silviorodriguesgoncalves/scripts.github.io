@@ -1,3 +1,48 @@
+#externo-items-wrapper{
+    width: 100%;
+    margin: 28px auto;
+    text-align: center;
+}
+#externo-items{
+    display: inline-flex;
+    margin: 0px auto;
+    width: 70%;
+}
+.externo-item{
+    background-color: #2400f6;
+    text-align: center;
+    margin: 10px;
+    width: 25%;
+    float: left;
+}
+#externo-items-wrapper p{
+    width: auto;
+    height: min-content;
+    line-height: 20px;
+    object-fit: cover;
+    text-align: justify;
+    padding: 10px;
+    color: #fff;
+} 
+.externo-item div {
+    top: -28px;
+    position: relative;
+    margin: 0px;
+    text-align: center;
+    display: initial;
+}
+.externo-item div span {
+    border: 1px solid #2400f6;
+    background-color: #fff;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    color: #2400f6;
+    font-weight: 600;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+} 
 @media screen and (max-width: 700px){
     #externo-items-wrapper{
         width: 100vw;
