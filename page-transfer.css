@@ -46,7 +46,14 @@
 .externo-item:hover{
     box-shadow: 0 12px 20px rgb(68 68 68 / 20%);
 }
-
+.search_engine_v2.service.custom_engine .destination {
+    width: 50%;
+    float: left;
+}
+.search_engine_v2.service.custom_engine label.date {
+    width: 25%;
+    float: left;
+}
 label.category.select {
     visibility: hidden;
     width: 0px;
