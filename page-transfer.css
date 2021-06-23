@@ -43,6 +43,10 @@
     height: 60px;
     border-radius: 50%;
 } 
+.externo-item:hover{
+    box-shadow: 0 12px 20px rgb(68 68 68 / 20%);
+}
+
 @media screen and (max-width: 700px){
     #externo-items-wrapper{
         width: 100%;
