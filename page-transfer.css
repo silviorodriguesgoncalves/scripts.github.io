@@ -47,6 +47,15 @@
     box-shadow: 0 12px 20px rgb(68 68 68 / 20%);
 }
 
+label.category.select {
+    visibility: hidden;
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
 @media screen and (max-width: 700px){
     #externo-items-wrapper{
         width: 100%;
