@@ -63,6 +63,7 @@
         scroll-snap-type: x mandatory;
         -webkit-overflow-scrolling: touch;
         scroll-behavior: smooth;
+        
     }
     .externo-item{
         flex: none;
@@ -71,7 +72,7 @@
         pointer-events: none;
         scroll-snap-align: start; /* when two values set first is block, second inline */
         background-color: #2400f6;
-        margin-right: 10px;
+        margin: 32px 10px 0px 0px;
     }  
     .externo-item div span {
         border: 1px solid #2400f6;
