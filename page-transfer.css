@@ -6,7 +6,7 @@
 #externo-items{
     display: inline-flex;
     margin: 0px auto;
-    width: 70%;
+    width: 100%;
 }
 .externo-item{
     background-color: #2400f6;
