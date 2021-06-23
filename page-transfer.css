@@ -45,7 +45,7 @@
 } 
 @media screen and (max-width: 700px){
     #externo-items-wrapper{
-        width: 100vw;
+        width: 100%;
         margin: 28px auto;
     }
     #externo-items-wrapper p{
