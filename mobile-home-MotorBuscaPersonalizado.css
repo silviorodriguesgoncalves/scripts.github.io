@@ -7,6 +7,9 @@
 }
 div#searchEngine {
     margin-top: -47px;
+    display: table;
+    width: 50%;
+    margin: 0px auto;
 }
 .search_engine_v2 .tabs li {
     margin: 0px 1px;
