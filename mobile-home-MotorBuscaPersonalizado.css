@@ -11,6 +11,10 @@ div#searchEngine {
     width: 50%;
     margin: 0px auto;
 }
+div#searchEngine ul.tabs {
+    top: -48px;
+    position: absolute;
+}
 .search_engine_v2 .tabs li {
     margin: 0px 1px;
     background-color: rgba(255, 255, 255, 0.6);
