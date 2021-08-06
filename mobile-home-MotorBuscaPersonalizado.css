@@ -3,6 +3,7 @@
 }
 .NewMotors {
     background-color: #2400f6;
+    max-width: 100% !important;
 }
 div#searchEngine {
     margin-top: -47px;
