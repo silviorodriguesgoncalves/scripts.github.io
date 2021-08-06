@@ -14,6 +14,7 @@ div#searchEngine {
 }
 .search_engine_v2.custom_engine .tabs li.active a{
     background-color: #2400f6 !important;
+    color: #fff !important;
 }
 div#searchEngine .content label {
     color: #fff !important;
